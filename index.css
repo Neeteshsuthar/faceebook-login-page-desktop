@@ -1,0 +1,136 @@
+ * {
+            padding: 0px;
+            margin: 0px;
+
+        }
+
+        body {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: whitesmoke;
+        }
+
+        #header {
+            background-color: rgb(2, 25, 151);
+            height: 80px;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 40px 10px 40px;
+
+        }
+
+        #facebook_logo_sec {
+            padding-top: 10px;
+        }
+
+        #facebook {
+            color: white;
+            font-size: 50px;
+
+        }
+
+        #input_section {
+            width: 35%;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .label_head {
+            color: white;
+            margin-right: 20px;
+
+        }
+
+        .input_head {
+            margin-right: 20px;
+            margin-top: 10px;
+            height: 20px;
+        }
+
+        #_submit_head {
+            height: 25px;
+            background-color: rgba(6, 6, 250, 0.781);
+            width: 70px;
+            border: none;
+            margin-top: 28px;
+            color: white;
+        }
+
+        #forgotten_button {
+            color: rgb(180, 163, 255);
+        }
+
+        /* header end */
+
+        #second_main {
+            display: flex;
+            justify-content: space-between;
+            padding: 0px 30px 0px 30px;
+        }
+
+        #second_sub_1 {
+            width: 50%;
+            padding-top: 50px;
+        }
+
+        #fecebook_desc {
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(68, 68, 68);
+            line-height: 40px;
+        }
+
+        #second_sub_2 {
+            padding-top: 30px;
+            width: 40%;
+            padding-left: 50PX;
+        }
+
+        #create_account {
+            font-size: 50PX;
+            color: rgb(48, 47, 47);
+        }
+
+        .input_half {
+            height: 40px;
+            width: 220px;
+            margin-right: 20px;
+            font-size: 18px;
+            padding-left: 10px;
+            border-radius: 5px;
+            border: 1px solid black;
+            margin-bottom: 7px;
+        }
+
+        .input_full {
+            height: 40px;
+            width: 476px;
+            margin-top: 12px;
+            margin-bottom: 8px;
+            font-size: 18px;
+            padding-left: 10px;
+            border-radius: 5px;
+            border: 1px solid black;
+
+        }
+
+        select {
+            width: 70px;
+            height: 30px;
+            font-size: 15px;
+            margin-top: 10px;
+        }
+        #form_foot{
+            font-size: 12px;
+            color: rgb(126, 126, 126);
+            margin-top: 5px;
+        }
+        #Signup_btn{
+            height: 40px;
+            width: 150px;
+            background-color: rgb(0, 163, 0);
+            border-radius: 5px;
+            border: none;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            margin-top: 20px;
+        }
